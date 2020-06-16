@@ -1,2 +1,2 @@
 # cl
-computational linguistics HSE course
+Computational linguistics HSE course
